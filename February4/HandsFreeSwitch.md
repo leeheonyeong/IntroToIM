@@ -12,3 +12,5 @@ Here is what the hi-hats looked like: ![](https://i.imgur.com/7gwj854.png)
 Here is the photo of the whole setup: ![](https://i.imgur.com/kUiihOA.jpg)
 
 Here is the close-up of the switch: ![](https://i.imgur.com/MlDACGu.png)
+
+![Here](https://youtu.be/vaj6d-RpNGM) is my video
