@@ -1,4 +1,5 @@
 Name: HeonYeong(Andy) Lee
+
 Date: February 3, 2020
  
 **Introduction to Interactive Media – 1st Assignment**
