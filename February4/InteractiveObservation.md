@@ -1,13 +1,4 @@
-Name: HeonYeong(Andy) Lee
-
-Date: February 3, 2020
- 
-**Introduction to Interactive Media – 1st Assignment**
-
-**Observe something “interactive” on campus somewhere. 
-Pay attention to what works and what doesn’t, 
-and think about the design decisions and constraints. 
-Write two paragraphs about this.**
+**Interactive Observation**
 
 Something I find interactive on campus is the Siemens microwave I have in my suite. 
 I interact with the microwave on a daily-basis as I use it for my oats every morning. 
