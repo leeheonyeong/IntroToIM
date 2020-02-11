@@ -1,4 +1,5 @@
 **Digital Inputs and Outputs**
+
 This was my second assignment for the course Intro to Interactive Media. 
 Our professor asked us to create a circuit that combines multiple digital inputs and outputs. 
 As we discussed in our previous class about some of the digital inputs in our kit, 
@@ -23,6 +24,7 @@ Through these values, I knew that when my finger covers the photoresistor,
 the value drops from around 880 to around 535.
 
 This is the arduino code ![](https://i.imgur.com/Tb8VTDH.png)
+
 This is the schematic of my circuit 
 
 
