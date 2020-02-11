@@ -24,7 +24,7 @@ Through these values, I knew that when my finger covers the photoresistor,
 the value drops from around 880 to around 535.
 
 This is the arduino code 
-![](https://i.imgur.com/Tb8VTDH.png)
+![](https://i.imgur.com/vXirS72.png)
 
 This is the schematic of my circuit
 ![](https://i.imgur.com/4wQ29J4.png)
