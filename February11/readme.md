@@ -7,7 +7,7 @@ I decided to use the photoresistor instead of a switch in my assignment.
 
 In my work, the digital output would be the photoresistor, also known as photocell. 
 The digital output(photoresistor) then translates to a digital input that turns the blue and red LED on 
-depending on the exposure of light on the photoresistor.
+depending on the exposure of light on the photoresistor. I tried to use a switch so that I could choose to disable the photoresistor to work and not but I was not able not figure it out so I removed it.
 
 How a photoresistor works is through light intensity. In this [video](https://youtu.be/wxOB-EtKxAM), 
 I show you how the LED lights up whenever I cover the photoresistor with my finger and how it blinks when 
