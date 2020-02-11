@@ -29,4 +29,5 @@ This is the arduino code
 This is the schematic of my circuit
 ![](https://i.imgur.com/4wQ29J4.png)
 
-
+This is how my circuit looked like
+![](https://i.imgur.com/FKzJhnm.png)
