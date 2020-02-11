@@ -26,6 +26,7 @@ the value drops from around 880 to around 535.
 This is the arduino code 
 ![](https://i.imgur.com/Tb8VTDH.png)
 
-This is the schematic of my circuit 
+This is the schematic of my circuit
+![](https://i.imgur.com/4wQ29J4.png)
 
 
