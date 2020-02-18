@@ -14,21 +14,15 @@ in a random sequence (only 1 LED will turn on at a time) due to a random number 
 While the momentary switch is being pressed and the 3LEDs are blinking, you could play with the potentiometer
 to control the brightness of the blinking LEDs. 
 
+While making this, I encountered some problems. One of the problems was that I thought my redboard was broken 
+since the lights in the redboard weren't lighting up even when I plugged it into my laptop. 
+I soon realized that it wasn't lighting up because of the size of the voltage from the breadboards. 
+I attempted to use a pressure sensor instead of a potentiometer but realized that a potentiometer works better 
+after seeing the pressure sensor in action. Overall, I was also able to achieve this project with the help 
+from Professor Shiloh, lab assistants, and Google.
+
 This is the schematic of my circuit
 ![](https://i.imgur.com/wWPkn4D.png)
 
 This is how my circuit looked like
-![]((https://i.imgur.com/oTGdw7h.png)
-
-
-    Document your work:
-        Create a new folder in your github repository called “February18”
-        Upload a picture of your circuit schematic.  Your schematic, whether hand drawn or otherwise, must be clear. Remember what a schematic is and is not.
-        Upload a photograph of your project
-        Create a new file called “description.md” and include:
-            A description of your concept and how it was achieved
-            Your schematic
-            Your photograph
-            Problems, if any, and solutions, if any
-            Anything else you can think of
-        Upload your program. Remember to keep the .ino extension so that it is formatted properly.
+![](https://i.imgur.com/oTGdw7h.png)
