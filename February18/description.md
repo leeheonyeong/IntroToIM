@@ -21,6 +21,8 @@ I attempted to use a pressure sensor instead of a potentiometer but realized tha
 after seeing the pressure sensor in action. Overall, I was also able to achieve this project with the help 
 from Professor Shiloh, lab assistants, and Google.
 
+You could watch my circuit in action in this [video](https://youtu.be/fJerdOka4VA).
+
 This is the schematic of my circuit
 ![](https://i.imgur.com/wWPkn4D.png)
 
