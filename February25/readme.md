@@ -15,7 +15,7 @@ press the yellow button or the blue button. The yellow button will play "Old Mac
 will play "Mary Had A Little Lamb." After choosing a song, you can play along with the song by controlling the tambourines.
 When you feel like you had enough "Karaoke Time", you can turn it off by turning the switch toggle off.
 
-**Description of How the Circuit and the Code Accomplish the Concept*
+**Description of How the Circuit and the Code Accomplish the Concept**
 
 I was able to achieve this through using if statements to control when the 2 songs will played. For example,
 the yellow button will play "Old Macdonald At The Farm" as I referred the if statement to a variable created with pitches.h.
