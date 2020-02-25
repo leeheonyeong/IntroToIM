@@ -42,7 +42,7 @@ void setup() {
 }
 
 void loop() {
-  servo_rotate();
+  servo_rotate(); //allows the servo to rotate during the song
   
   int yellow_buttonstate = digitalRead(yellow_button);
   //  Serial.print(yellow_buttonstate);
