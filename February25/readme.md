@@ -1,19 +1,4 @@
 **Karaoke Friend**
-
-
-    Filename must end in .md
-    Properly formatted
-    Overall project concept
-    Description of how the circuit and the code accomplish the concept
-    Circuit schematic
-    A photograph of the overall project
-    A photograph of the electronics
-    A link to a short video
-    Problems, if any, and solutions, if any
-    If the project did not operate as you intended, describe clearly how it does operate, and why you think it differs from what you intended
-
-mention the tambourine problem
-
 This was fourth assignment for the course Intro to Interactive Media.
 Our professor asked us to make a musical instrument using at least one servo and tone. 
 We were allowed to use other components as well.
