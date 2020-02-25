@@ -35,8 +35,13 @@ from Professor Shiloh, lab assistants, and Google.
 You could watch my circuit in action in this [video](https://youtu.be/7H3kJTmmnRE).
 
 This is the schematic of my circuit
-![](https://i.imgur.com/wWPkn4D.png)
+![](https://i.imgur.com/OjBxz26.png)
+
+This is how my setup looked like
+![](https://i.imgur.com/dKK63Xi.png)
 
 This is how my circuit looked like
-![](https://i.imgur.com/oTGdw7h.png)
+![](https://i.imgur.com/Rie1iJY.jpg)
+
+
 
