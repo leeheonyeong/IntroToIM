@@ -26,6 +26,7 @@ the songs won't sound the same if notes are played unusually longer or shorter t
 at the example code of "knob" to include lines such as : #include <Servo.h>.
 
 **Problems and Solutions**
+
 While making this, I encountered some problems. One of the problems was that the servomotor(tambourine) would only move
 when the note is being played even when I was turning the potentiometer nonstop. This caused some sort of rigid movement
 with the servomotor but after testing the servomotor's sound along with the song multiple times, it actually sounded really nice
