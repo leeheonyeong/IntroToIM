@@ -1,18 +1,29 @@
-**Analog and Digital Sensors in Both Analog and Digital Fashion**
+**Karaoke Friend**
+
+
+    Filename must end in .md
+    Properly formatted
+    Overall project concept
+    Description of how the circuit and the code accomplish the concept
+    Circuit schematic
+    A photograph of the overall project
+    A photograph of the electronics
+    A link to a short video
+    Problems, if any, and solutions, if any
+    If the project did not operate as you intended, describe clearly how it does operate, and why you think it differs from what you intended
+
+mention the tambourine problem
 
 This was fourth assignment for the course Intro to Interactive Media.
-Our professor asked us to get information from at least one analog sensor
-and at least one digital sensor (switch), and use this information to control at least two LEDs, 
-one in a digital fashion and the other in an analog fashion, in some creative way.
+Our professor asked us to make a musical instrument using at least one servo and tone. 
+We were allowed to use other components as well.
 
-In my work, I have used one analog sensor and two digital sensors. The analog sensor is the potentiometer
-and the two digital sensors are the switch toggle and the momentary switch. Each of these sensors have their
-own purpose and affects the 3LEDs in various ways. Starting with the switch toggle, the switch toggle turns off
-and on the 3LEDs. This means that when the switch toggle is set to off, the momentary switch and potentiometer
-won't work. Once the switch toggle is set to on, the momentary switch will allow to user to make the 3LEDs blink 
-in a random sequence (only 1 LED will turn on at a time) due to a random number generator. 
-While the momentary switch is being pressed and the 3LEDs are blinking, you could play with the potentiometer
-to control the brightness of the blinking LEDs. 
+In my work, I have used one switch toggle, two momentary switches, one buzzer, one servomotor, and a potentiometer.
+First of all, the most important thing is the switch toggle. Without it turned on, the 2 momentary switches won't work
+and not play any songs. Therefore, the switch toggle must first be turned on. After that, you ae given the choice to 
+press the yellow button or the blue button. The yellow button will play "Old Macdonald Had A Farm" while the blue button 
+will play "Mary Had A Little Lamb." After choosing a song, you can play along with the song by controlling the tambourines.
+When you feel like you had enough "Karaoke Time", you can turn it off by turning the switch toggle off.
 
 While making this, I encountered some problems. One of the problems was that I thought my redboard was broken 
 since the lights in the redboard weren't lighting up even when I plugged it into my laptop. 
