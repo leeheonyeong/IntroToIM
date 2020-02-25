@@ -1,4 +1,4 @@
-**Analog and Digital Snesors in Both Analog and Digital Fashion**
+**Analog and Digital Sensors in Both Analog and Digital Fashion**
 
 This was third assignment for the course Intro to Interactive Media.
 Our professor asked us to get information from at least one analog sensor
