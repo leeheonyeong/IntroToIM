@@ -1,10 +1,13 @@
 ## Karaoke Friend 
 
+**Introduction**
+
 This was fourth assignment for the course Intro to Interactive Media.
 Our professor asked us to make a musical instrument using at least one servo and tone. 
 We were allowed to use other components as well.
 
 **Overall Project Concept**
+
 In my work, I have used one switch toggle, two momentary switches, one buzzer, one servomotor, and a potentiometer.
 First of all, the most important thing is the switch toggle. Without it turned on, the 2 momentary switches won't work
 and not play any songs. Therefore, the switch toggle must first be turned on. After that, you ae given the choice to 
