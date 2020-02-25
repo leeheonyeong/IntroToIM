@@ -1,18 +1,16 @@
 //toneMelody and servoKnob example codes used as reference
 
-#include "pitches.h"
-#include <Servo.h>
+#include "pitches.h" //from "toneMelody" code examples
+#include <Servo.h> //from "Knob" code examples
 
 Servo myservo;  // create servo object to control a servo
 
 int potpin = A0;  // analog pin used to connect the potentiometer
 int val;    // variable to read the value from the analog pin
-const int slideswitch = 7;
-const int yellow_button = 5;
-const int blue_button = 6;
-const int buzzer = 12;
-//const int servo = A2;
-//const int pinPotentiometer = A0;
+const int slideswitch = 7; //turns on and off the 2 colored buttons
+const int yellow_button = 5; //plays Old Macdonald Had A Farm when pressed
+const int blue_button = 6; //plays Marry Had A Little Lamb when pressed
+const int buzzer = 12; 
 
 // Old Macdonald Had A Farm notes:
 int firstmelody[] = {
@@ -35,7 +33,6 @@ int noteDurations[] = {
   4, 4, 4, 4, 4, 4, 2, 4, 4, 2, 4, 4, 2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 1
 };
 
-
 void setup() {
   Serial.begin(9600);
   pinMode(yellow_button, INPUT);
@@ -46,8 +43,7 @@ void setup() {
 
 void loop() {
   servo_rotate();
-
-  // no need to repeat the melody.
+  
   int yellow_buttonstate = digitalRead(yellow_button);
   //  Serial.print(yellow_buttonstate);
   //  Serial.print('\n');
@@ -55,11 +51,10 @@ void loop() {
   int slide_buttonstate = digitalRead(slideswitch);
   Serial.print(blue_buttonstate);
 
-
   if (slide_buttonstate) {
     if (yellow_buttonstate) {
       for (int thisNote = 0; thisNote < 26; thisNote++) {
-        servo_rotate();
+        servo_rotate(); //allows the servo to rotate during the song
 
         // to calculate the note duration, take one second divided by the note type.
         //e.g. quarter note = 1000 / 4, eighth note = 1000/8, etc.
@@ -77,9 +72,7 @@ void loop() {
     }
     if (blue_buttonstate) {
       for (int thisNote = 0; thisNote < 26; thisNote++) {
-        servo_rotate();
-
-
+        servo_rotate(); //allows the servo to rotate during the song
         // to calculate the note duration, take one second divided by the note type.
         //e.g. quarter note = 1000 / 4, eighth note = 1000/8, etc.
         int noteDuration = 1000 / noteDurations[thisNote];
@@ -93,16 +86,12 @@ void loop() {
         noTone(12);
       }
 
-
-
-
     }
   }
 
   else {
     noTone(12);
   }
-
 
 }
 
