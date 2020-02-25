@@ -38,7 +38,7 @@ void setup() {
   pinMode(yellow_button, INPUT);
   pinMode(blue_button, INPUT);
   pinMode(slideswitch, INPUT);
-  myservo.attach(3);
+  myservo.attach(3); //servo to 3
 }
 
 void loop() {
@@ -90,7 +90,7 @@ void loop() {
   }
 
   else {
-    noTone(12);
+    noTone(12); 
   }
 
 }
