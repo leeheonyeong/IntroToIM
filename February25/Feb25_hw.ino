@@ -10,7 +10,7 @@ int val;    // variable to read the value from the analog pin
 const int slideswitch = 7; //turns on and off the 2 colored buttons
 const int yellow_button = 5; //plays Old Macdonald Had A Farm when pressed
 const int blue_button = 6; //plays Marry Had A Little Lamb when pressed
-const int buzzer = 12; 
+const int buzzer = 12; //buzzer to 12
 
 // Old Macdonald Had A Farm notes:
 int firstmelody[] = {
