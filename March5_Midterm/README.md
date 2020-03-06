@@ -74,11 +74,8 @@ This is the schematic of my circuit:
 ![](https://i.imgur.com/j6VZhP2.png)
 
 This is how my overall project looked like:
-Frontview
 ![](https://imgur.com/G5NdXqU)
-Sideview
 ![](https://imgur.com/OII10kq)
-Backview
 ![](https://imgur.com/bNmFJfW)
 
 This is how my circuit looked like:
