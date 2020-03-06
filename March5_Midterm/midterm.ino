@@ -44,15 +44,17 @@ void loop() {
   int TMP2 = analogRead(A1);
   int TMP3 = analogRead(A2);
 
+// Using potentiometers to control RGB LED color range
   int new1 = map(TMP1, 0, 1023, 0, 255);
   int new2 = map(TMP2, 0, 1023, 0, 255);
   int new3 = map(TMP3, 0, 1023, 0, 255);
 
+// enables A0 potentiometer to control LED G, enables A1 potentiometer to control LED R, enables A2 potentiometer to control LED B
   analogWrite(LED1, new1);
   analogWrite(LED2, new2);
   analogWrite(LED3, new3);
-  // enables
-
+  
+// Used to check if the potentiometers work using serial monitor
   //  Serial.print("potentiometer1 = ");
   //  Serial.print(TMP1);
   //  Serial.print(" | ");
@@ -67,7 +69,7 @@ void loop() {
   // Serial.print("\t");
   //  Serial.println(tmp2);
 
-
+// allows for the servo motor to rotate 180degress when light is shone on one potentiometer and 0degree when the light is shone on the second potentiometer.
   if (tmp1 > tmp2)
   {
     Serial.println("180");
@@ -78,8 +80,6 @@ void loop() {
     Serial.println("0");
     myservo.write(0);
   }
-
-  //  myservo.write( servoGrad );
-
+  //100ms delay
   delay(100);
 }
