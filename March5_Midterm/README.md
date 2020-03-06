@@ -2,7 +2,7 @@
 
 **Introduction**
 
-This was midterm project for the course Intro to Interactive Media.
+This was my midterm project for the course Intro to Interactive Media.
 Our professor asked us to make something whimsical, delightful, surprising, wonderful, or fun.
 Through watching videos on youtube, I was inspired to create a sunflower that moves to the side
 where the light is shone (just like how a real sunflower moves to face where the sunlight is 
@@ -17,14 +17,14 @@ and the servor motor. The photoresistors are each placed on both sides of the bo
 shines light on one side, the servomotor(which was coded to rotate 180degrees and 0degrees depending on 
 the photoresistor receiving the most light) will rotate the sunflower to face towards the side where the light
 is shining from. Three potentiometers were needed to make the RGB LED functional as it has three cathodes:
-Red, Blue, and Pure Green.
+Red, Blue, and Pure Green. I coded the RGB LED to mix colors when more than one color is being used.
 
 **Description of How the Circuit and the Code Accomplish the Concept**
 
-I was able to achieve this through using if and else statements to allow for the servo motor to rotate 180degress
-when light is shone on one potentiometer and 0degree when the light is shone on the second potentiometer.
+I was able to achieve this through using if and else statements to allow for the servo motor to rotate 180 degrees
+when light is shone on one potentiometer and 0 degree when the light is shone on the second potentiometer.
 Moreover, for the servo, I looked at the example code of "knob" to include lines such as : #include <Servo.h>.
-I also used soldering for the first time and this helped a lot me to accomplish my goal. Through soldering,
+I also used soldering for the first time and this helped me a lot to accomplish my goal. Through soldering,
 I was able to create a project with height because soldering enables you to have longer wires.
 
 **Process**
