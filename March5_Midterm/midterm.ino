@@ -3,14 +3,14 @@
 Servo myservo;
 
 // 3 potentiometers to control the color of the RGB LED
-int pot1 = A0;
-int pot2 = A1;
-int pot3 = A2;
+int pot1 = A0; //potentiometer 1 to A0
+int pot2 = A1; //potentiometer 2 to A1
+int pot3 = A2; //potentiometer 3 to A2
 
 // RGB LED
-int LED1 = 13; //led G
-int LED2 = 12; //led R
-int LED3 = 11; //led B
+int LED1 = 13; //led G to 13
+int LED2 = 12; //led R to 12
+int LED3 = 11; //led B to 11
 
 const int inMinVal = 0, inMaxVal = 1023;  // Values that define the maximum and minimum value returned from the potentiometer reading
 
@@ -73,15 +73,15 @@ void loop() {
   if (tmp1 > tmp2)
   {
     Serial.println("180");
-    myservo.write(180);
+    myservo.write(180); // sets the servo position according to the scaled value which is 180
   }
   else
   {
     Serial.println("0");
-    myservo.write(0);
+    myservo.write(0); // sets the servo position according to the scaled value which is 0
   }
   //100ms delay
-  delay(100);
+  delay(100); //// waits for the servo to get there
 }
 
 // REFERENCE
