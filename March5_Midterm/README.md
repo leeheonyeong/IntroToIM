@@ -82,7 +82,7 @@ Backview
 ![](https://i.imgur.com/bNmFJfW.png)
 
 This is how my circuit looked like:
-![](https://i.imgur.com/Rie1iJY.jpg)
+![](https://i.imgur.com/vxLUJXO.png)
 
 This is how my code looked like:
 ![](https://i.imgur.com/SlMhceM.png)
