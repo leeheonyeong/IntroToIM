@@ -81,4 +81,5 @@ void loop() {
 
   //  myservo.write( servoGrad );
 
-  delay(1
+  delay(100);
+}
