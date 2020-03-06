@@ -83,3 +83,8 @@ void loop() {
   //100ms delay
   delay(100);
 }
+
+// REFERENCE
+// https://www.hackster.io/Rick_Findus/arduino-sunflower-c4fd84 inspiration
+// https://create.arduino.cc/projecthub/shakram02/arduino-color-mixer-d6264a?ref=tag&ref_id=games&offset=44 inspiration
+// "sweep" from example code servo to enable the sunflower to rotate
