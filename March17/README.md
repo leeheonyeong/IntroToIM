@@ -20,8 +20,11 @@ after the code of my face. With this in mind, I tried to make the portrat to loo
 my piercings and my cap.
 
 **Code**
-This was my code:
 
+This was my code:
+![](https://i.imgur.com/38tm4dW.png)
+![](https://i.imgur.com/H712UQz.png)
+![](https://i.imgur.com/C5uCcQi.png)
 
 **Images**
 
