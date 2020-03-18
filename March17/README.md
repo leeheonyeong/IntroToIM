@@ -4,8 +4,10 @@
 
 For our first processing homework, our professor asked us to make a self portrait created by our code. 
 The requirements are listed below.
+
 • The portrait must be entirely created by your code i.e. you must not interact with your computer while the 
 portrait is being made (e.g. no drawing using the mouse)
+
 • The portrait does not need to be dynamic (i.e. it does not need to change while we look at it) 
 
 **Process**
