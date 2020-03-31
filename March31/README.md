@@ -34,7 +34,7 @@ the rectangles were more visible but that was not I was going for so I decided t
 rectangles.
 
 I also added a code that when you click the mouse, everything in the screen stops(freeze) so that the user could take a screenshot
-of the art when the rectangles are arranged to their liking. Something small that I also added was a key to clear everything in the 
+of the art when the rectangles are positioned to their liking. Something small that I also added was a key to clear everything in the 
 screen and start over.
 
 **Images and Video**
