@@ -48,8 +48,13 @@ These are some of the art pieces I created while playing around with my code:
 
 **References**
 https://www.youtube.com/watch?time_continue=330&v=_NJqfZUQ3i4&feature=emb_logo
+
 https://processing.org/reference/stroke_.html
+
 https://processing.org/examples/easing.html
+
 https://processing.org/reference/noFill_.html
+
 https://www.youtube.com/watch?v=spGP0B8SGnk
+
 https://processing.org/tutorials/transform2d/
