@@ -47,6 +47,7 @@ These are some of the art pieces I created while playing around with my code:
 ![](https://i.imgur.com/HMJjFJR.png)
 
 **References**
+
 https://www.youtube.com/watch?time_continue=330&v=_NJqfZUQ3i4&feature=emb_logo
 
 https://processing.org/reference/stroke_.html
