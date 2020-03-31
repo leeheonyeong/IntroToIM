@@ -16,7 +16,7 @@ He also provided us with 3 more sources to inspire us in what we should create f
 **Process**
 
 For this assignment, I tried to replicate an art created by Herbert Franke called "Random Squares." This is how it looks like:
-![](https://i.imgur.com/igNZdNY.png)
+![](https://i.imgur.com/hPUTIiF.png)
 
 Therefore, my first idea was when I run the code, it will create rectangles of different sizes across the canvas. But this idea
 seemed a bit boring so, unlike like the original art piece, I added a little twist of my own which was enabling the user to interact 
