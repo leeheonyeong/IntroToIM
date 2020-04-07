@@ -30,16 +30,26 @@ for better viewing, but I did not really know how to do that.
 
 You could watch my project for this assignment in this short [video](https://youtu.be/lrZ7XCzQ40s).
 
+At the end of this video, there were 470 circles as shown in the console here:
+![](https://i.imgur.com/sCrGq88.png)
+
 These are some of the art pieces I created while playing around with my code:
 ![](https://i.imgur.com/nSG5XBh.png)
 
 ![](https://i.imgur.com/zwXxIWy.png)
 
+
+
 **References**
 
 //Matt Pearon
+
 //https://processing.org/reference/smooth_.html
+
 //https://processing.org/reference/ellipse_.html
+
 //https://processing.org/reference/rect_.html
+
 //https://processing.org/tutorials/objects/
+
 //https://www.youtube.com/watch?v=lmgcMPRa1qw
