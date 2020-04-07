@@ -2,7 +2,7 @@
 
 **Introduction**
 
-For this assignment, our professor asked us to Create either an artwork or a game using Object Oriented Programming. In the 
+For this assignment, our professor asked us to create either an artwork or a game using Object Oriented Programming. In the 
 end, I chose to create an artwork. This is like a 2.0 version of my previous assignment where I was inspired to recreate 
 "Random Squares" by Herbert Franke. To improve it, I knew I had to create unique features while using object-oriented 
 programming.
