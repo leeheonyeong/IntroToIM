@@ -42,7 +42,7 @@ These are some of the art pieces I created while playing around with my code:
 
 **References**
 
-Matt Pearon
+Matt Pearson
 
 https://processing.org/reference/smooth_.html
 
