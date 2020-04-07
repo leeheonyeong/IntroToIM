@@ -42,14 +42,14 @@ These are some of the art pieces I created while playing around with my code:
 
 **References**
 
-//Matt Pearon
+Matt Pearon
 
-//https://processing.org/reference/smooth_.html
+https://processing.org/reference/smooth_.html
 
-//https://processing.org/reference/ellipse_.html
+https://processing.org/reference/ellipse_.html
 
-//https://processing.org/reference/rect_.html
+https://processing.org/reference/rect_.html
 
-//https://processing.org/tutorials/objects/
+https://processing.org/tutorials/objects/
 
-//https://www.youtube.com/watch?v=lmgcMPRa1qw
+https://www.youtube.com/watch?v=lmgcMPRa1qw
