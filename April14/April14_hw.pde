@@ -24,7 +24,7 @@ void setup() {
 void draw() {
   background(0);
   image(webImg, 0, 0); //loads the coronavirus background image
-  translate(width*0.5, height*0.5);
+  translate(width*0.5, height*0.5); //translating to the middle of the canvas
   rotateY(angle);
   angle += 0.01; // controls the speed of the rotation
   
