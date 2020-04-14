@@ -65,3 +65,10 @@ Here is a screenshot of what my assignment looked like:
 //https://processing.org/reference/fill_.html
 
 //https://processing.org/reference/PVector.html
+
+//https://www.wilsoncenter.org/sites/default/files/styles/embed_text_block/public/media/uploads/images/shutterstock_1662701254.jpg
+
+//https://visibleearth.nasa.gov/collection/1484/blue-marble
+
+//https://data.humdata.org/hxlproxy/api/data-preview.csv?url=https%3A%2F%2Fraw.githubusercontent.com%2FCSSEGISandData%2FCOVID-19%2Fmaster%2Fcsse_covid_19_data%2Fcsse_covid_19_time_series%2Ftime_series_covid19_confirmed_global.csv&filename=time_series_covid19_confirmed_global.csv
+
