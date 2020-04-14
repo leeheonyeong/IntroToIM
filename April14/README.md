@@ -1,5 +1,3 @@
-Challenge: The actual data from each country that reported in each country is not alligned in the globe texture.
-
 ## Data Visualization
 
 **Introduction**
@@ -21,12 +19,17 @@ from the csv file he chose. Professor Shiffman explained really well in his 40 m
 formulas as shown:
 "The Cartesian coordinates may be retrieved from the spherical coordinates (radius r, inclination θ, azimuth φ), where 
 r ∈ [0, ∞), θ ∈ [0, π], φ ∈ [0, 2π), by"
+
 ![](https://i.imgur.com/gaLtJ7Q.png)
+
 Source: Wikipedia
 
 So what this does is calculate the locations for where the boxes representing the number of infected cases of COVID-19 in
 each country should be in the globe. He also pinpointed something very important in the video which was the measurements of 
-each values were, since the values in the code consists of values being in radians and degrees.
+each values were, since the values in the code consists of values being in radians and degrees. 
+
+I also used the power function to help in representing the number of infected cases per country through the height of the 
+boxes, which is something that was mentioned by Professor Shiffman.
 
 The other things that had to be done was add a texture to the globe as it will appear as just a plain sphere rotating. NASA
 provides a lot of Earth maps along with topographies so all that was needed to pick one image and get the dimensions of the 
@@ -37,6 +40,12 @@ loadImage().
 
 Something that I want to add is how I unintentionally made the text also rotate from the center of the globe which I found
 to be really cool. 
+
+**Challenges**
+
+My main challenge in this code was that the height of the boxes do not accurately represent the number of infected cases. For
+some bizarre reason, the boxes all look to be the same height as one another and some boxes seem to not appear within the 
+globe, despite the longitue and latitude coordinates existing in the csv file.
 
 **Images and Video**
 
