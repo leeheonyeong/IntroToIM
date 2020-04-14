@@ -40,6 +40,7 @@ void draw() {
   noStroke(); // no border line
   shape(globe); //creates the globe object into the scene
 
+  //get the values from the csv file in the rows that we need which is lat, lon, confirmed
   for (TableRow row : table.rows()) {
     float lat = row.getFloat("Lat");
     float lon = row.getFloat("Long");
