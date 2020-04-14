@@ -58,8 +58,8 @@ void draw() {
     PVector pos = new PVector(x, y, z); //this position vector is the vector that points out from the center since the pos is equal to PVector x,y,z  26:00
 
     float h = pow(10, confirmed);
-    float maxh = pow(10, 600000); // consider the maximum of infected value of scale of 1000 instad of 7jdvlsdbvlsbdvs
-    h = map(h, 0, maxh, 10, 1000); // map the ones that have a infectd value of 1000 to 100pixels and the lower ones to 10 //// map the ones that have the highest infectd value of 1000pixels and 100pixels for the lower ones to 10
+    float maxh = pow(10, 600000); // consider the maximum of infected value of scale of 600000 
+    h = map(h, 0, maxh, 10, 1000); // map the ones that have the highest infected value of 1000pixels and 100pixels for the lower ones 
     //25:00
     PVector xaxis = new PVector(1, 0, 0);
     float angleb = PVector.angleBetween(xaxis, pos); // angleBetween returns a float 
