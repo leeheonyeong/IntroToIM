@@ -19,6 +19,9 @@ example, if I were to have the rotaters move really fast and change colors along
 effect (causes seizures to those who have photosensitive epilepsy). I also wanted to add a function for mousePressed which was 
 to just slow down the acceleration so that everything comes to a halt.
 
+The result reminded me of electricity sparks; therefore, I named the assignment "Trippy Electicity Sparks" as it also changes
+the color of the rotaters really fast.
+
 **Challenges and Conclusion**
 
 There was no particular challenge that I faced in this assignment. Professor Sherwood's explanation was very straighforward 
