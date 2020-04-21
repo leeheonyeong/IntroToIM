@@ -81,6 +81,7 @@ class Rotater {
     if (dist(mouseX, mouseY, x, y)<100 && mouseX!=pmouseX && mouseY!=pmouseY) {
       acceleration=.05;
       speed*=1.15;
+      //if mouse is pressed, then slow the speed and acceleration
       if (mousePressed) {
         acceleration=.0009;
         speed*=0.5;
