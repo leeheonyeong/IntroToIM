@@ -38,8 +38,8 @@ You could watch my project for this assignment in this short [video](https://you
 Here is a screenshot of what my assignment looked like:
 ![](https://i.imgur.com/addkTaz.png)
 
-This photo does not do much except show what it initially looks like when you run the code so try watching the video
-or run the code by copy and pasting the code to Processing!
+This photo does not do much justice except to show what it initially looks like when you run the code so try watching the 
+video or run the code by copy and pasting the code to Processing!
 
 **References**
 
