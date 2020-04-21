@@ -60,15 +60,14 @@ class Rotater {
     //dampen it a little
     speed*=.98;
     acceleration=0;
-    //rect(x, y, 2, 2);
   }
 
   void distance(Rotater[] rotaters) {
     //check the mouse, if close enough add some acceleration
     checkMouse();
     //check distance with all rotaters, if close enough draw line
-    for (Rotater r : rotaters) {
-      if (r.index != index) {
+    for (Rotater r : rotaters) { // iterates through rotaters
+      if (r.index != index) { // if r isn't in this rotater
         if (dist(x, y, r.x, r.y)<lineDistance) {
           line(x, y, r.x, r.y);
         }
