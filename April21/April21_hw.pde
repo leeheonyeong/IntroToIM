@@ -8,8 +8,8 @@ void setup() {
   size(640, 360);
   rotaters = new Rotater[200];
   for (int i=0; i< rotaters.length; i++) {
-    float x = random(width);
-    float y = random(height);
+    float x = random(width); // changes x value
+    float y = random(height); // changes y value
     float lineDistance = random(20, 50);
     //initiate with i for index
     rotaters[i]= new Rotater(x, y, i, lineDistance);
