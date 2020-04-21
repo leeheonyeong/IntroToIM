@@ -18,7 +18,7 @@ void setup() {
 
 void draw() {
   background(255);
-  stroke(random(255), random(255), random(255));
+  stroke(random(255), random(255), random(255)); // generates random colors for the border of the rotaters
   for (Rotater r : rotaters) {
     r.rotate();
     r.distance(rotaters);
