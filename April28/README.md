@@ -4,10 +4,15 @@
 
 For this assignment, our professor asked us to do something creative with an image. The functions that were introduced last
 class were:
+
 • tint()
+
 • createImage()
+
 • Brightness
+
 • Filter()
+
 • Capture()
 
 **Process**
