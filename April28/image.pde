@@ -1,3 +1,7 @@
+//Name: HeonYeong(Andy) Lee
+//Last Edited: April 28, 2020
+//Course: NYUAD Intro to IM
+
 PImage peacock;
 
 void setup() {
