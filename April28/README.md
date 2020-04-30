@@ -34,6 +34,9 @@ peacock idea. Professor Shiffman's video on Image Processing with Pixels was ver
 
 **Images and Video**
 
+
+You could watch my project for this assignment in this short [video](https://youtu.be/mQr7C8PhnVY).
+
 Here are some screenshots of what my assignment looked like:
 ![](https://i.imgur.com/5Crx3r9.png)
 
