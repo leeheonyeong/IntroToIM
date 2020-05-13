@@ -1,8 +1,3 @@
-// Daniel Shiffman
-// http://codingtra.in
-// Earthquake Data Viz
-// Video: https://youtu.be/ZiYdOwOrGyc
-
 PImage mapimg;
 
 int clat = 0;
