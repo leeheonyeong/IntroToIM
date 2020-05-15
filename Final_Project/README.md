@@ -44,22 +44,24 @@ and the Cartesion Coordinate Formulas for the 3d data visualization:
 
 ![](https://i.imgur.com/gaLtJ7Q.png)
 
+The last thing I needed to do was to create a main menu screen that explains what my project does and 2 sepearate buttons that
+displays either the 2d data visualization or the 3d data visualization. This was fairly simple as there plenty of videos 
+online how to create a button in Processing.
+
 **Images and Video**
 
 You could watch my project for this assignment in this short [video](https://youtu.be/S05hw3ojCKE).
 
-
-
 This is how my final project looked like:
 
 Main Screen
-![](https://i.imgur.com/G5NdXqU.png)
+![](https://i.imgur.com/XuntxRF.png)
 
 3d data visualization of the number of confirmed cases in each country
-![](https://i.imgur.com/G5NdXqU.png)
+![](https://i.imgur.com/pGlH16K.png)
 
 2d data visualization of the number of confirmed cases in each country
-![](https://i.imgur.com/G5NdXqU.png)
+![](https://i.imgur.com/rC5SFeU.png)
 
 
 **References**
