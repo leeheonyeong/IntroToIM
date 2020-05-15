@@ -37,9 +37,11 @@ Both of these data visualizations required a lot of math especially since the bo
 right position whether it is a sphere or 2d image of Earth depending on their longitude and latitude. Daniel Shiffman explains
 really well in both of the videos in why we need to use formulas such as the Web Mercator Formulas for the 2d data 
 visualization:
-![](https://i.imgur.com/gaLtJ7Q.png)
+
+![](https://i.imgur.com/vYpxSY0.png)
 
 and the Cartesion Coordinate Formulas for the 3d data visualization:
+
 ![](https://i.imgur.com/gaLtJ7Q.png)
 
 **Images and Video**
