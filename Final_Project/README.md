@@ -2,12 +2,14 @@
 
 **Introduction**
 
-For my final project, I decided to improve on my previous data visualization assignment. As mentioned in the README file that
-I created for that assignment, there were some problems that I encountered. One of the problems was that the data from the csv 
-file were not accurately presented at the globe. This posed to be a big problem as the main goal of my assignment was to 
-display the data correctly. Therefore, I will be fixing this problem, and I will also add some more features such as a main
-menu screen and an alternative way to view the data which was to display a bar graph of the number of infected cases in each 
-country. This will allow the user to decide how the data should be displayed. 
+For my final project, I decided to improve on my [previous data visualization assignment]
+(https://github.com/leeheonyeong/IntroToIM/tree/master/April14).
+
+As mentioned in the README file that I created for that assignment, there were some problems that I encountered. One of the 
+problems was that the data from the csv file were not accurately presented at the globe. This posed to be a big problem as the
+main goal of my assignment was to display the data correctly. Therefore, I will be fixing this problem, and I will also add 
+some more features such as a main menu screen and an alternative way to view the data which was to display a bar graph of the
+number of infected cases in each country. This will allow the user to decide how the data should be displayed. 
 
 However, one thing I realized that I might not be able to do is to create bar graph for an alternative way to view the data I
 obtained through a csv file. The reason for that was because there were exactly 266 rows of countries/regions and the number
@@ -26,12 +28,13 @@ the similar sizes of boxes that are drawn on the globe. Since I knew the problem
 Eventually, I figured out that dividing the number of confirmed cases by a 100 solved the problem. After I was able to fix 
 this major problem, I moved on to working on my 2d data visualization.
 
-Daniel Shiffman made a video on creating a 2d data visualization as well so I referenced my work on what he did. The only 
-problems I faced was using mapbox and scaling the red circles(used to display the number of confirmed cases in each country
-through the size of the circles depending on the latitude and longitude of the area)on the 2d image of earth. After surfing 
-through the mapbox webpage for few hours, I eventually figured out how to display the mapbox image on my sketch. The next part
-was to scale the red circles with some math. As mentioned earlier, the number of confirmed cases in each country vary greatly
-so what I did was the use the same solution I used on my 3d data visualization. This fixed the problem.
+Daniel Shiffman made a [video](https://www.youtube.com/watch?v=ZiYdOwOrGyc&list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH&index=74)
+on creating a 2d data visualization as well so I referenced my work on what he did. The only problems I faced was using mapbox 
+and scaling the red circles(used to display the number of confirmed cases in each country through the size of the circles 
+depending on the latitude and longitude of the area)on the 2d image of earth. After surfing through the mapbox webpage for few 
+hours, I eventually figured out how to display the mapbox image on my sketch. The next part was to scale the red circles with 
+some math. As mentioned earlier, the number of confirmed cases in each country vary greatly so what I did was the use the same 
+solution I used on my 3d data visualization. This fixed the problem.
 
 Both of these data visualizations required a lot of math especially since the boxes and red circles have to be mapped on the
 right position whether it is a sphere or 2d image of Earth depending on their longitude and latitude. Daniel Shiffman explains
