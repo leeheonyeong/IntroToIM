@@ -64,36 +64,46 @@ Main Screen
 ![](https://i.imgur.com/rC5SFeU.png)
 
 
-**References**
+### References
 
-//https://thecodingtrain.com/CodingChallenges/058-earthquakeviz3d.html
+Processing references:
 
-//https://en.wikipedia.org/wiki/Spherical_coordinate_system
+- https://processing.org/reference/translate_.html
 
-//https://processing.org/reference/translate_.html
+- https://processing.org/reference/fill_.html
 
-//https://processing.org/reference/fill_.html
+- https://processing.org/reference/PVector.html
 
-//https://processing.org/reference/PVector.html
+Images:
 
-//https://www.wilsoncenter.org/sites/default/files/styles/embed_text_block/public/media/uploads/images/shutterstock_1662701254.jpg
+- https://www.wilsoncenter.org/sites/default/files/styles/embed_text_block/public/media/uploads/images/shutterstock_1662701254.jpg
 
-//https://visibleearth.nasa.gov/collection/1484/blue-marble
+- //https://visibleearth.nasa.gov/collection/1484/blue-marble
 
-//https://data.humdata.org/hxlproxy/api/data-preview.csv?url=https%3A%2F%2Fraw.githubusercontent.com%2FCSSEGISandData%2FCOVID-19%2Fmaster%2Fcsse_covid_19_data%2Fcsse_covid_19_time_series%2Ftime_series_covid19_confirmed_global.csv&filename=time_series_covid19_confirmed_global.csv
+- https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/-122.4241,37.78,14.25,0,60/600x600?access_token=pk.eyJ1IjoibGVlaGVvbnllb25nIiwiYSI6ImNrOHl5ajAwZDFlN2YzZ29rM2ZtbGIwZTkifQ.5O3w9k8dAY2di-V_Zg0dtg
 
-//https://en.wikipedia.org/wiki/Spherical_coordinate_system
+- https://docs.mapbox.com/api/maps/#static-images
 
-//https://processing.org/reference/translate_.html
+Data:
 
-//https://processing.org/reference/fill_.html
+- https://data.humdata.org/hxlproxy/api/data-preview.csv?url=https%3A%2F%2Fraw.githubusercontent.com%2FCSSEGISandData%2FCOVID-19%2Fmaster%2Fcsse_covid_19_data%2Fcsse_covid_19_time_series%2Ftime_series_covid19_confirmed_global.csv&filename=time_series_covid19_confirmed_global.csv
 
-//https://covid.ourworldindata.org/data/owid-covid-data.csv
+- https://covid.ourworldindata.org/data/owid-covid-data.csv
 
-//https://github.com/wizord-gaming/youtube/blob/master/button/button.pde
+Code to create button:
 
-//https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/-122.4241,37.78,14.25,0,60/600x600?access_token=pk.eyJ1IjoibGVlaGVvbnllb25nIiwiYSI6ImNrOHl5ajAwZDFlN2YzZ29rM2ZtbGIwZTkifQ.5O3w9k8dAY2di-V_Zg0dtg
+- https://github.com/wizord-gaming/youtube/blob/master/button/button.pde
 
-//https://docs.mapbox.com/api/maps/#static-images
+Wikipedia Pages Used to Obtain the Formualas:
 
-//https://en.wikipedia.org/wiki/Web_Mercator_projection
+- https://en.wikipedia.org/wiki/Web_Mercator_projection
+
+- https://en.wikipedia.org/wiki/Spherical_coordinate_system
+
+- https://en.wikipedia.org/wiki/Spherical_coordinate_system
+
+Tutorial on How to Create the Data Visualizations:
+
+- https://thecodingtrain.com/CodingChallenges/057-mapping-earthquake-data.html
+
+- https://thecodingtrain.com/CodingChallenges/058-earthquakeviz3d.html
