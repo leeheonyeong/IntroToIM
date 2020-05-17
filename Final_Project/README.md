@@ -2,8 +2,8 @@
 
 **Introduction**
 
-For my final project, I decided to improve on my [previous data visualization assignment]
-(https://github.com/leeheonyeong/IntroToIM/tree/master/April14).
+For my final project, I decided to improve on my previous data visualization assignment, which can be found in this link:
+https://github.com/leeheonyeong/IntroToIM/tree/master/April14
 
 As mentioned in the README file that I created for that assignment, there were some problems that I encountered. One of the 
 problems was that the data from the csv file were not accurately presented at the globe. This posed to be a big problem as the
