@@ -78,7 +78,7 @@ Images:
 
 - https://www.wilsoncenter.org/sites/default/files/styles/embed_text_block/public/media/uploads/images/shutterstock_1662701254.jpg
 
-- //https://visibleearth.nasa.gov/collection/1484/blue-marble
+- https://visibleearth.nasa.gov/collection/1484/blue-marble
 
 - https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/-122.4241,37.78,14.25,0,60/600x600?access_token=pk.eyJ1IjoibGVlaGVvbnllb25nIiwiYSI6ImNrOHl5ajAwZDFlN2YzZ29rM2ZtbGIwZTkifQ.5O3w9k8dAY2di-V_Zg0dtg
 
